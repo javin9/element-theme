@@ -1,4 +1,4 @@
-# zyb-theme
+# element-theme
 
 是基于 element-theme 做的二次开发，添加了在主题的每个元素外面包裹一个 class 来做命名空间的功能；
 
